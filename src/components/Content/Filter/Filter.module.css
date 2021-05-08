@@ -1,0 +1,31 @@
+.filter {
+    margin: 0 10vw;
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    margin: 0 10vw;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    color: #ffe659;
+}
+
+
+.btn {
+    background-color: #fe48ea;
+    border: none;
+    padding: 15px 110px;
+    transition: background-color 1s;
+    width: 33.3%;
+}
+
+.btn:hover {
+    border: none;
+    padding: 15px 110px;
+    cursor: pointer;
+}
+
+.btn:focus {
+    background-color: #9e1b8f;
+    outline: none;
+}

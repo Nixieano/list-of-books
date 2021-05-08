@@ -1,0 +1,162 @@
+[
+    {
+        "id": 0,
+        "title": "1984",
+        "author": "Джордж Орвелл",
+        "image":
+            "https://s1.livelib.ru/boocover/1001502082/o/ddd5/Dzhordzh_Oruell__1984.jpeg",
+        "price": 120
+    },
+    {
+        "id": 1,
+        "title": "На Западном фронте без перемен",
+        "author": "Эрих Мария Ремарк",
+        "image":
+            "https://s1.livelib.ru/boocover/1000484096/200/a457/boocover.jpg",
+        "price": 150
+    },
+    {
+        "id": 2,
+        "title": "Двенадцать стульев",
+        "author": "Илья Арнольдович Ильф, Евгений Петрович Петров",
+        "image":
+            "https://s1.livelib.ru/boocover/1000466962/o/0126/I._Ilf_E._Petrov__Dvenadtsat_stulev.jpeg",
+        "price": 60
+    },
+    {
+        "id": 3,
+        "title": "Преступление и наказание",
+        "author": "Фёдор Достоевский",
+        "image":
+            "https://cdn.ast.ru/v2/ASE000000000703427/COVER/cover1__w600.jpg",
+        "price": 175
+    },
+    {
+        "id": 4,
+        "title": "Баудолино",
+        "author": "Умберто Эко",
+        "image":
+            "https://s1.livelib.ru/boocover/1000526183/o/b2e7/Umberto_Eko__Baudolino.jpeg",
+        "price": 200
+    },
+    {
+        "id": 5,
+        "title": "Око Мира",
+        "author": "Роберт Джордан",
+        "image":
+            "https://img.yakaboo.ua/media/catalog/product/cache/1/image/398x565/234c7c011ba026e66d29567e1be1d1f7/9/7/9785389179547_3000.jpg",
+        "price": 110
+    },
+    {
+        "id": 6,
+        "title": "Ведьмак",
+        "author": "Анджей Сапковский",
+        "image":
+            "",
+        "price": 150
+    },
+    {
+        "id": 7,
+        "title": "Волшебник Земноморья",
+        "author": "Урсула Крёбер Ле Гуин",
+        "image":
+            "https://img.yakaboo.ua/media/catalog/product/cache/1/image/398x565/234c7c011ba026e66d29567e1be1d1f7/i/m/img_16462.jpg",
+        "price": 230
+    },
+    {
+        "id": 8,
+        "title": "Тигроловы",
+        "author": "Иван Павлович Багряный",
+        "image":
+            "https://img.yakaboo.ua/media/catalog/product/cache/1/image/398x565/234c7c011ba026e66d29567e1be1d1f7/i/m/img560_1_14.jpg",
+        "price": 80
+    },
+    {
+        "id": 9,
+        "title": "О дивный новый мир",
+        "author": "Олдос Хаксли",
+        "image":
+            "https://images.ua.prom.st/2160328589_w640_h640_2160328589.jpg",
+        "price": 118
+    },
+    {
+        "id": 10,
+        "title": "Собака Баскервилей",
+        "author": "Артур Конан Дойл",
+        "image":
+            "https://img.yakaboo.ua/media/catalog/product/cache/1/image/398x565/234c7c011ba026e66d29567e1be1d1f7/i/m/img255_1_3.jpg",
+        "price": 87
+    },
+    {
+        "id": 11,
+        "title": "Город",
+        "author": "Валерьян Петрович Пидмогильный",
+        "image":
+            "https://s1.livelib.ru/boocover/1001110898/200/db21/boocover.jpg",
+        "price": 83
+    },
+    {
+        "id": 12,
+        "title": "Я (Романтика)",
+        "author": "Микола Хвылевой",
+        "image":
+            "https://chytomo.com/wp-content/uploads/2019/08/Ia_Romantyka.jpg",
+        "price": 145
+    },
+    {
+        "id": 13,
+        "title": "Адъютант его превосходительства",
+        "author": "Игорь Болгарин",
+        "image":
+            "https://balka-book.com/files/2020/05_26/16_20/u_files_store_6_5462.jpg",
+        "price": 140
+    },
+    {
+        "id": 14,
+        "title": "Стань диким!",
+        "author": "Эрин Хантер",
+        "image":
+            "https://img4.labirint.ru/rc/69a21bdc7f66e701b1419d67e556bce1/220x340/books12/112028/cover.jpg?1563539375",
+        "price": 290
+    },
+    {
+        "id": 15,
+        "title": "Дети из камеры хранения",
+        "author": "Рю Мураками",
+        "image":
+            "https://s1.livelib.ru/boocover/1001123101/200/94b9/boocover.jpg",
+        "price": 110
+    },
+    {
+        "id": 16,
+        "title": "Мор, ученик Смерти",
+        "author": "Терри Пратчетт",
+        "image":
+            "https://s1.livelib.ru/boocover/1002850787/o/efa9/Terri_Pratchett__Mor_uchenik_Smerti.jpeg",
+        "price": 90
+    },
+    {
+        "id": 17,
+        "title": "Записки юного врача",
+        "author": "Михаил Булгаков",
+        "image":
+            "https://s1.livelib.ru/boocover/1001289068/200/e66b/boocover.jpg",
+        "price": 43
+    },
+    {
+        "id": 18,
+        "title": "Римский орел",
+        "author": "Саймон Скэрроу",
+        "image":
+            "https://s1.livelib.ru/boocover/1000173702/o/1ec3/Sajmon_Skerrou__Rimskij_orel.jpeg",
+        "price": 103
+    },
+    {
+        "id": 19,
+        "title": "Географ глобус пропил",
+        "author": "Алексей Викторович Иванов",
+        "image":
+            "https://s1.livelib.ru/boocover/1000403795/200/e832/boocover.jpg",
+        "price": 270
+    }
+]

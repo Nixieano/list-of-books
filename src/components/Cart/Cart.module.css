@@ -1,0 +1,141 @@
+.cart {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    width: 100px;
+    height: 60px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 10px;
+    background-color: white;
+}
+
+.cart:focus {
+    outline: none;
+}
+
+.cart:hover {
+    cursor: pointer;
+}
+
+.cart:active {
+    background-color: rgb(62, 175, 111);
+    border: black solid 2px;
+    outline: none;
+}
+
+.cartImg {
+    width: 50px;
+    height: 50px;
+}
+
+.count {
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.book {
+    width: 250px;
+    height: 200px;
+    padding: 5px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.bookPrice {
+    display: flex;
+    justify-content: space-between;
+    color: #ff0000;
+}
+
+.bookImage {
+    max-width: 180px;
+    max-height: 120px;
+}
+
+.totalPrice {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 5px;
+    border-bottom: 1px solid #000000;
+}
+
+.popupContent {
+    background-color: #FFFFFF;
+    width: 80%;
+    height: 80%;
+    margin: 10vh 10vw;
+    overflow: auto;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #000000;
+}
+
+.container:last-child {
+    border-bottom: none;
+}
+
+.quantityManagement {
+    display: flex;
+    margin-right: 20px; 
+}
+
+.quantityManagementContent {
+    display: flex;
+    align-items: center;
+}
+
+.btn {
+    width: 30px;
+    height: 30px;
+    margin: 0 15px;
+    border-radius: 50%;
+    background: none;
+    outline: none;
+    border: #2e8b57;
+}
+
+.btn:hover {
+    background-color: #2e8b57;
+    cursor: pointer;
+}
+
+.btn:focus {
+    outline: none;
+}
+
+.btn:active {
+    background-color: #3eaf6f;
+    outline: none;
+}
+
+
+.btnDelete {
+    border-radius: 10px;
+    padding: 2px 15px;
+    background: none;
+    outline: none;
+    cursor: pointer;
+    border: none;
+    background-color: #ff0000;
+}
+
+.btnDelete:focus {
+    cursor: pointer;
+}
+
+.btnDelete:active {
+    background-color: rgba(255, 0, 0, 0.8);
+}

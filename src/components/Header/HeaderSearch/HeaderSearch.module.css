@@ -1,0 +1,28 @@
+.container {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    padding-right: 95px;
+}
+
+.search {
+    width: 400px;
+    border: none;
+}
+
+.search:focus {
+    outline: none;
+}
+
+.searchMagnifier {
+    width: 25px;
+    height: 17px;
+    border: 1px solid #ffffff;
+    border-left: none;
+    background: #ffffff;
+    cursor: pointer;
+}
+
+.searchMagnifier:hover {
+    background-color: #27AC60;
+}

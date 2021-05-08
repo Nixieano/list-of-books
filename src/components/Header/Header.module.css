@@ -1,0 +1,18 @@
+.headers {
+    display: flex;
+    justify-content: start;
+    color: #f3eded; 
+    min-height: 85px;
+    background-color: #27AC60;
+}
+
+.headerIcon {
+    height: 55px;
+    padding: 10px 0 0 10px;
+}
+
+.headerLogo {
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+}
